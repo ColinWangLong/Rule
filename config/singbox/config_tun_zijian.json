@@ -69,9 +69,9 @@
        {
       "tag": "节点名字1",
       "type": "hysteria2",
-      "server": "154.204.183.217",
-      "server_port": 60449,
-      "password": "c33a010e-b029-4bad-889d-17a5103949a8",
+      "server": "128.204.223.112",
+      "server_port": 54070,
+      "password": "246b0dae-f639-4792-9b6a-a39a830f4e50",
       "tls": {
         "enabled": true,
         "server_name": "www.bing.com",
@@ -81,9 +81,9 @@
     {
       "tag": "节点名字2",
       "type": "vmess",
-      "server": "154.204.183.217",
-      "server_port": 8880,
-      "uuid": "c33a010e-b029-4bad-889d-17a5103949a8",
+      "server": "www.visa.com.hk",
+      "server_port": 8443,
+      "uuid": "246b0dae-f639-4792-9b6a-a39a830f4e50",
       "security": "auto",
       "alter_id": 0,
       "transport": {
@@ -91,7 +91,7 @@
         "headers": {
           "Host": "www.bing.com"
         },
-        "path": "/c33a010e-b029-4bad-889d-17a5103949a8-vm"
+        "path": "/246b0dae-f639-4792-9b6a-a39a830f4e50-vm?ed=2048"
       }
     }
   ],
